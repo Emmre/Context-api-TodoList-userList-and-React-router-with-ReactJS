@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  height: 75px;
+  background-color: gray;
+  justify-content: center;
+}
+
+.li {
+  display: flex;
+}
+
+.li a {
+  text-decoration-line: none;
+  color: coral;
+  padding: 29px;
+}

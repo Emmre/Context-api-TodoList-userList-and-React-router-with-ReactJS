@@ -1,0 +1,13 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.container ul {
+  padding: 20px;
+  color: tomato;
+}
+
+.container li {
+  margin: 5px 0;
+}

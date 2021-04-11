@@ -1,0 +1,28 @@
+.usersFirst {
+  list-style-type: none;
+  color: red;
+}
+
+.usersFirst a {
+  text-decoration-line: none;
+  color: sandybrown;
+  padding: 20px;
+  display: block;
+}
+
+.usersFirst li {
+  border: 1px solid #d7dddb;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.usersSecond {
+  list-style-type: none;
+  color: blue;
+}
+
+.userList {
+  border: 1px solid slategray;
+  border-radius: 4px;
+  padding: 20px;
+}
